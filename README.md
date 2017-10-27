@@ -1,8 +1,8 @@
-# Time a section of code.
+# Time a section of code (C language version).
 
 Simplistic demonstration of timing a section of code.
 
-It is sometimes useful to time the execution of a section of our code. For example, it can be used to compare the efficiency of different versions of an algorithm. This is a short example program that demonstrates how to accomplish this.
+It is sometimes useful to time the execution of a section of code. For example, it can be used to compare the efficiency of different versions of an algorithm. This is a short example program that demonstrates how to accomplish this.
  
 This was tested in MSVC 2017. 
 
